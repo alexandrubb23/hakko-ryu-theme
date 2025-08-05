@@ -31,23 +31,48 @@ Just as <span style="color: #8B5CF6">Hakko Ryu</span> emphasizes **⚡ <span sty
 
 ## 📦 Installation
 
-1. 📁 Copy the theme files to your VS Code extensions folder:
+### 🛒 From VS Code Marketplace (Recommended)
 
-   ```
-   ~/.vscode/extensions/hakko-theme-1.0.0/
-   ```
+1. � Open VS Code
+2. 🔍 Press `Ctrl+Shift+X` (or `Cmd+Shift+X` on Mac) to open Extensions view
+3. 🔎 Search for "**Hakko Ryu Theme**"
+4. 📥 Click **Install** on the theme by Alexandru Barbulescu
+5. 🎨 Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac) and type "**Color Theme**"
+6. ✨ Select "**Preferences: Color Theme**" and choose "**Hakko Ryu Theme**"
 
-2. 🚀 Open VS Code and press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
+### 🌐 Alternative Installation Methods
 
-3. ⌨️ Type "Color Theme" and select "Preferences: Color Theme"
+#### Via Command Line
 
-4. 🎨 Choose "<span style="color: #8B5CF6">Hakko Ryu Theme</span>" from the list
+```bash
+code --install-extension alexandrubb23.hakko-theme
+```
+
+#### Manual Installation
+
+1. 📥 Download the latest `.vsix` file from the [releases page](https://github.com/alexandrubb23/hakko-ryu-theme/releases)
+2. 🚀 Open VS Code
+3. ⌨️ Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
+4. 🔍 Type "**Extensions: Install from VSIX...**"
+5. 📁 Select the downloaded `.vsix` file
+6. 🎨 Apply the theme via `Ctrl+Shift+P` > "**Preferences: Color Theme**" > "**Hakko Ryu Theme**"
+
+## ⚡ Quick Start
+
+After installation, the theme will be immediately available in your color theme list. You can quickly switch themes using:
+
+- **Keyboard shortcut**: `Ctrl+K Ctrl+T` (or `Cmd+K Cmd+T` on Mac)
+- **Command Palette**: `Ctrl+Shift+P` → "Preferences: Color Theme"
+
+## 📋 Requirements
+
+- **VS Code Version**: 1.74.0 or higher
+- **Platform**: Compatible with Windows, macOS, and Linux
+- **File Types**: Optimized for JavaScript, TypeScript, Python, HTML, CSS, JSON, Markdown, and more
 
 ## 🧘‍♂️ Philosophy
 
 > 💡 "True efficiency is invisible to the eyes, just as the ultra-violet rays - the eighth color on the spectrum of light, invisible but very powerful."
->
-> _- Master Okuyama Ryuho, founder of <span style="color: #8B5CF6">Hakko Ryu</span>_
 
 This theme embodies the same principle: providing powerful functionality through subtle, harmonious design.
 
@@ -58,6 +83,16 @@ _Coming soon - screenshots of the theme in action_
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests! This theme is a labor of love, combining passion for martial arts and clean code.
+
+### 🐛 Found a Bug or Have a Suggestion?
+
+- 📝 [Create an issue](https://github.com/alexandrubb23/hakko-ryu-theme/issues) on GitHub
+- ⭐ Give this project a star if you like it!
+- 📧 Contact: [Your contact information]
+
+### 🎨 Theme Requests
+
+If you'd like variations of this theme (light version, different accent colors, etc.), please let me know in the issues!
 
 ---
 
