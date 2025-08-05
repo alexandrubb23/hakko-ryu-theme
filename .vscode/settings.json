@@ -1,0 +1,22 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.enable": true,
+  "typescript.validate.enable": true,
+  "eslint.validate": ["javascript", "typescript"],
+  "eslint.run": "onType",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.showUnused": true,
+  "eslint.lintTask.enable": true,
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "cSpell.words": ["Alexandru", "Barbulescu", "Hakko", "shodan"]
+}

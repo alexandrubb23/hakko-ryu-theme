@@ -1,0 +1,50 @@
+{
+  "name": "hakko-theme",
+  "displayName": "Hakko Ryu Theme",
+  "description": "A custom dark theme inspired by Hakko Ryu martial arts and Romanian flag colors",
+  "version": "1.0.0",
+  "publisher": "alexandrubb23",
+  "author": {
+    "name": "Alexandru Barbulescu"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "hakko ryu",
+    "martial arts",
+    "romanian",
+    "purple",
+    "blue",
+    "yellow",
+    "red"
+  ],
+  "galleryBanner": {
+    "color": "#1A1A1A",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hakko Ryu Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hakko-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexandrubb23/hakko-ryu-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexandrubb23/hakko-ryu-theme/issues"
+  },
+  "homepage": "https://github.com/alexandrubb23/hakko-ryu-theme#readme"
+}
