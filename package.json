@@ -1,8 +1,8 @@
 {
   "name": "hakko-theme",
-  "displayName": "Hakko Ryu Theme",
-  "description": "A custom dark theme inspired by Hakko Ryu martial arts and Romanian flag colors",
-  "version": "1.0.0",
+  "displayName": "Hakko Ryu Theme Collection",
+  "description": "A collection of dark themes inspired by Hakko Ryu martial arts - includes Standard, High Contrast, and Soft variants",
+  "version": "1.1.0",
   "publisher": "alexandrubb23",
   "author": {
     "name": "Alexandru Barbulescu"
@@ -18,13 +18,17 @@
   "keywords": [
     "theme",
     "dark theme",
+    "high contrast",
+    "accessibility",
     "hakko ryu",
     "martial arts",
     "romanian",
     "purple",
     "blue",
     "yellow",
-    "red"
+    "red",
+    "collection",
+    "variants"
   ],
   "galleryBanner": {
     "color": "#1A1A1A",
@@ -36,8 +40,45 @@
         "label": "Hakko Ryu Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/hakko-theme.json"
+      },
+      {
+        "label": "Hakko Ryu Theme (High Contrast)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hakko-theme-high-contrast.json"
+      },
+      {
+        "label": "Hakko Ryu Theme (Soft)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hakko-theme-soft.json"
       }
-    ]
+    ],
+    "configuration": {
+      "title": "Hakko Ryu Theme",
+      "properties": {
+        "hakkoTheme.accentColor": {
+          "type": "string",
+          "default": "#8B5CF6",
+          "description": "Primary accent color for the theme",
+          "enum": [
+            "#8B5CF6",
+            "#A855F7",
+            "#7C3AED",
+            "#6366F1"
+          ],
+          "enumDescriptions": [
+            "Standard Purple",
+            "Bright Purple",
+            "Deep Purple",
+            "Indigo Purple"
+          ]
+        },
+        "hakkoTheme.italicComments": {
+          "type": "boolean",
+          "default": true,
+          "description": "Use italic font style for comments"
+        }
+      }
+    }
   },
   "repository": {
     "type": "git",

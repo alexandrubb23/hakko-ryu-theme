@@ -1,0 +1,123 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Hakko Theme Soft",
+  "type": "dark",
+  "colors": {
+    // Activity Bar - Softer purple
+    "activityBar.activeBorder": "#8B5CF680",
+    "activityBar.background": "#1E1E1E",
+    "activityBar.border": "#2D2D2D40",
+    "activityBar.dropBorder": "#8B5CF680",
+    "activityBar.foreground": "#8B5CF6CC",
+    "activityBar.inactiveForeground": "#94A3B870",
+    "activityBarBadge.background": "#8B5CF6CC",
+    "activityBarBadge.foreground": "#FFFFFF",
+
+    // Editor - Warmer background
+    "editor.background": "#1C1C1C",
+    "editor.foreground": "#F0F0F0",
+    "editor.lineHighlightBackground": "#2D2D2D30",
+    "editor.selectionBackground": "#8B5CF640",
+    "editor.selectionHighlightBackground": "#8B5CF620",
+    "editor.findMatchBackground": "#EAB30850",
+    "editor.findMatchHighlightBackground": "#EAB30820",
+    "editor.hoverHighlightBackground": "#60A5FA15",
+    "editor.lineHighlightBorder": "#8B5CF615",
+    "editor.rangeHighlightBackground": "#60A5FA10",
+    "editor.wordHighlightBackground": "#94A3B815",
+    "editor.wordHighlightStrongBackground": "#8B5CF620",
+
+    // Softer line numbers
+    "editorLineNumber.foreground": "#707070",
+    "editorLineNumber.activeForeground": "#8B5CF6CC",
+    "editorCursor.foreground": "#8B5CF6CC",
+    "editorWhitespace.foreground": "#404040",
+
+    // Sidebar - Softer contrast
+    "sideBar.background": "#1E1E1E",
+    "sideBar.foreground": "#E0E0E0",
+    "sideBar.border": "#2D2D2D60",
+    "sideBarTitle.foreground": "#8B5CF6CC",
+    "sideBarSectionHeader.background": "#252525",
+    "sideBarSectionHeader.foreground": "#8B5CF6CC",
+    "sideBarSectionHeader.border": "#2D2D2D60",
+
+    // Status Bar - Subtle
+    "statusBar.background": "#8B5CF680",
+    "statusBar.foreground": "#FFFFFF",
+    "statusBar.border": "#7C3AED80",
+    "statusBar.debuggingBackground": "#F8717180",
+    "statusBar.debuggingForeground": "#FFFFFF",
+    "statusBar.noFolderBackground": "#404040",
+
+    // Softer terminal colors
+    "terminal.foreground": "#E5E5E5",
+    "terminal.background": "#1C1C1C",
+    "terminal.ansiBlack": "#1C1C1C",
+    "terminal.ansiRed": "#F87171CC",
+    "terminal.ansiGreen": "#10B981CC",
+    "terminal.ansiYellow": "#EAB308CC",
+    "terminal.ansiBlue": "#60A5FACC",
+    "terminal.ansiMagenta": "#8B5CF6CC",
+    "terminal.ansiCyan": "#06B6D4CC",
+    "terminal.ansiWhite": "#E5E5E5",
+    "terminal.ansiBrightBlack": "#505050",
+    "terminal.ansiBrightRed": "#FCA5A5",
+    "terminal.ansiBrightGreen": "#6EE7B7",
+    "terminal.ansiBrightYellow": "#FDE047",
+    "terminal.ansiBrightBlue": "#93C5FD",
+    "terminal.ansiBrightMagenta": "#C4B5FD",
+    "terminal.ansiBrightCyan": "#67E8F9",
+    "terminal.ansiBrightWhite": "#F5F5F5"
+  },
+  "tokenColors": [
+    {
+      "name": "Comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#888888"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "settings": {
+        "foreground": "#8B5CF6CC"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string", "punctuation.definition.string"],
+      "settings": {
+        "foreground": "#EAB308CC"
+      }
+    },
+    {
+      "name": "Numbers",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#F87171CC"
+      }
+    },
+    {
+      "name": "Functions",
+      "scope": [
+        "entity.name.function",
+        "meta.function-call",
+        "variable.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#60A5FACC"
+      }
+    },
+    {
+      "name": "Variables",
+      "scope": ["variable", "string constant.other.placeholder"],
+      "settings": {
+        "foreground": "#E5E5E5"
+      }
+    }
+  ]
+}

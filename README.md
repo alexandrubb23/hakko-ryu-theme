@@ -1,8 +1,30 @@
-# 🥋 Hakko Ryu Theme for VS Code
+# 🥋 Hakko Ryu Theme Collection for VS Code
 
-A custom dark theme inspired by the martial art of <span style="color: #8B5CF6">**Hakko Ryu**</span> and the colors of the <span style="color: #3B82F6">Ro</span><span style="color: #EAB308">ma</span><span style="color: #F87171">nian</span> flag.
+A collection of dark themes inspired by the martial art of <span style="color: #8B5CF6">**Hakko Ryu**</span> and the colors of the <span style="color: #3B82F6">Ro</span><span style="color: #EAB308">ma</span><span style="color: #F87171">nian</span> flag.
 
 ![Hakko Ryu VSCode Theme](./theme-screenshot.webp)
+
+## 🎨 Theme Variants
+
+This collection includes **three carefully crafted variants** to suit different preferences and accessibility needs:
+
+### 🌟 **Standard** - Perfect Balance
+
+- **🌙 Balanced contrast** for comfortable daily coding
+- **🎯 Optimal readability** without eye strain
+- **✨ Classic Hakko Ryu** color philosophy
+
+### ⚡ **High Contrast** - Maximum Clarity
+
+- **🔥 Enhanced contrast** for better accessibility
+- **💪 Bolder colors** for users who prefer vivid themes
+- **🎪 Deeper blacks** and brighter accents
+
+### 🌸 **Soft** - Gentle Focus
+
+- **😌 Reduced intensity** for extended coding sessions
+- **🕯️ Warmer tones** for a more relaxed feel
+- **🌅 Subtle contrasts** that are easy on the eyes
 
 ## 🎨 Color Palette
 
@@ -38,7 +60,10 @@ Just as <span style="color: #8B5CF6">Hakko Ryu</span> emphasizes **⚡ <span sty
 3. 🔎 Search for "**Hakko Ryu Theme**"
 4. 📥 Click **Install** on the theme by Alexandru Barbulescu
 5. 🎨 Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac) and type "**Color Theme**"
-6. ✨ Select "**Preferences: Color Theme**" and choose "**Hakko Ryu Theme**"
+6. ✨ Select "**Preferences: Color Theme**" and choose your preferred variant:
+   - **Hakko Ryu Theme** (Standard)
+   - **Hakko Ryu Theme (High Contrast)**
+   - **Hakko Ryu Theme (Soft)**
 
 ### 🌐 Alternative Installation Methods
 

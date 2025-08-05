@@ -5,6 +5,28 @@ All notable changes to the "Hakko Ryu Theme" extension will be documented in thi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2025-08-05
+
+### Added
+
+- **Theme Collection**: Expanded from single theme to three variants
+- **High Contrast variant**: Enhanced accessibility with deeper blacks and brighter colors
+- **Soft variant**: Reduced intensity for comfortable extended coding sessions
+- **Enhanced keywords**: Better discoverability with accessibility and variant tags
+- **Improved description**: Now describes the full collection
+
+### Changed
+
+- **Display Name**: Updated to "Hakko Ryu Theme Collection"
+- **README**: Comprehensive documentation for all three variants
+- **Installation Guide**: Updated to show variant selection
+
+### Features
+
+- All variants maintain the core Hakko Ryu philosophy
+- Enhanced accessibility options
+- Better user choice for different preferences and needs
+
 ## [1.0.0] - 2025-08-05
 
 ### Added
