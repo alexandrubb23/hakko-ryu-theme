@@ -5,6 +5,28 @@ All notable changes to the "Hakko Ryu Theme" extension will be documented in thi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2025-08-05
+
+### Added
+
+- **Light Theme Variant**: New soft, off-white theme symbolizing clarity and cleanliness
+- **Complete Theme Collection**: Now offering both dark and light theme options
+- **Enhanced Keywords**: Added "light theme", "clean", and "minimal" for better discoverability
+- **Comprehensive Documentation**: Updated README to showcase all four variants
+
+### Features
+
+- **Light Theme Philosophy**: Maintains Hakko Ryu color philosophy adapted for light backgrounds
+- **Soft Design**: Off-white background (#FAFAFA) with subtle gray accents
+- **Optimized Readability**: Perfect contrast ratios for daytime coding
+- **Consistent Branding**: Purple (#8B5CF6) remains the primary accent across all variants
+
+### Changed
+
+- **Version**: Updated to 1.2.0
+- **Description**: Now mentions "complete theme collection" with both dark and light variants
+- **Documentation**: Enhanced README with detailed variant descriptions
+
 ## [1.1.0] - 2025-08-05
 
 ### Added

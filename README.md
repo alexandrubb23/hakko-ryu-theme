@@ -1,12 +1,12 @@
 # 🥋 Hakko Ryu Theme Collection for VS Code
 
-A collection of dark themes inspired by the martial art of <span style="color: #8B5CF6">**Hakko Ryu**</span> and the colors of the <span style="color: #3B82F6">Ro</span><span style="color: #EAB308">ma</span><span style="color: #F87171">nian</span> flag.
+A complete theme collection inspired by the martial art of <span style="color: #8B5CF6">**Hakko Ryu**</span> and the colors of the <span style="color: #3B82F6">Ro</span><span style="color: #EAB308">ma</span><span style="color: #F87171">nian</span> flag.
 
 ![Hakko Ryu VSCode Theme](./theme-screenshot.webp)
 
 ## 🎨 Theme Variants
 
-This collection includes **three carefully crafted variants** to suit different preferences and accessibility needs:
+This collection includes **four carefully crafted variants** to suit different preferences, accessibility needs, and coding environments:
 
 ### 🌟 **Standard** - Perfect Balance
 
@@ -25,6 +25,13 @@ This collection includes **three carefully crafted variants** to suit different 
 - **😌 Reduced intensity** for extended coding sessions
 - **🕯️ Warmer tones** for a more relaxed feel
 - **🌅 Subtle contrasts** that are easy on the eyes
+
+### ☀️ **Light** - Pure Clarity
+
+- **🤍 Soft off-white background** symbolizing clarity and cleanliness
+- **📖 Perfect for documentation** and daytime coding
+- **👁️ Gentle on the eyes** with warm, comfortable tones
+- **🎨 Maintains color philosophy** with light-optimized palette
 
 ## 🎨 Color Palette
 
@@ -61,9 +68,10 @@ Just as <span style="color: #8B5CF6">Hakko Ryu</span> emphasizes **⚡ <span sty
 4. 📥 Click **Install** on the theme by Alexandru Barbulescu
 5. 🎨 Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac) and type "**Color Theme**"
 6. ✨ Select "**Preferences: Color Theme**" and choose your preferred variant:
-   - **Hakko Ryu Theme** (Standard)
-   - **Hakko Ryu Theme (High Contrast)**
-   - **Hakko Ryu Theme (Soft)**
+   - **Hakko Ryu Theme** (Standard - Dark)
+   - **Hakko Ryu Theme (High Contrast)** (Dark)
+   - **Hakko Ryu Theme (Soft)** (Dark)
+   - **Hakko Ryu Theme (Light)** (Light)
 
 ### 🌐 Alternative Installation Methods
 

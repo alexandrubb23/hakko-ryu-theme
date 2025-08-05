@@ -1,8 +1,8 @@
 {
   "name": "hakko-theme",
   "displayName": "Hakko Ryu Theme Collection",
-  "description": "A collection of dark themes inspired by Hakko Ryu martial arts - includes Standard, High Contrast, and Soft variants",
-  "version": "1.1.0",
+  "description": "Complete theme collection inspired by Hakko Ryu martial arts - includes Dark, High Contrast, Soft, and Light variants",
+  "version": "1.2.0",
   "publisher": "alexandrubb23",
   "author": {
     "name": "Alexandru Barbulescu"
@@ -18,8 +18,11 @@
   "keywords": [
     "theme",
     "dark theme",
+    "light theme",
     "high contrast",
     "accessibility",
+    "clean",
+    "minimal",
     "hakko ryu",
     "martial arts",
     "romanian",
@@ -50,6 +53,11 @@
         "label": "Hakko Ryu Theme (Soft)",
         "uiTheme": "vs-dark",
         "path": "./themes/hakko-theme-soft.json"
+      },
+      {
+        "label": "Hakko Ryu Theme (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/hakko-theme-light.json"
       }
     ],
     "configuration": {
