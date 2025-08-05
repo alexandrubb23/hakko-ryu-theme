@@ -113,7 +113,7 @@ Feel free to submit issues and enhancement requests! This theme is a labor of lo
 
 - 📝 [Create an issue](https://github.com/alexandrubb23/hakko-ryu-theme/issues) on GitHub
 - ⭐ Give this project a star if you like it!
-- 📧 Contact: [Your contact information]
+- 📧 Contact: [alex_bb23@yahoo.co.uk](mailto:alex_bb23@yahoo.co.uk)
 
 ### 🎨 Theme Requests
 
