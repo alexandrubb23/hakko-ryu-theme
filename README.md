@@ -120,7 +120,25 @@ This theme embodies the same principle: providing powerful functionality through
 
 ## 📸 Screenshots
 
-_Coming soon - screenshots of the theme in action_
+### ## Standard Theme
+
+![Hakko Ryu Standard Theme](./standard.png)
+
+### ## High Contrast Theme
+
+![Hakko Ryu High Contrast Theme](./high-contrast.png)
+
+### ## Soft Theme
+
+![Hakko Ryu Soft Theme](./soft.png)
+
+### ## Light Theme
+
+![Hakko Ryu Light Theme](./light.png)
+
+### ## Master Theme - "You Are a Master of the Eight Colors" ✨
+
+![Hakko Ryu Master Theme](./master.png)
 
 ## 🤝 Contributing
 
