@@ -2,7 +2,27 @@
 
 A complete theme collection inspired by the martial art of <span style="color: #8B5CF6">**Hakko Ryu**</span> and the colors of the <span style="color: #3B82F6">Ro</span><span style="color: #EAB308">ma</span><span style="color: #F87171">nian</span> flag.
 
-![Hakko Ryu VSCode Theme](./theme-screenshot.webp)
+## 📸 Screenshots
+
+## Standard Theme
+
+![Hakko Ryu Standard Theme](./standard.png)
+
+## High Contrast Theme
+
+![Hakko Ryu High Contrast Theme](./high-contrast.png)
+
+## Soft Theme
+
+![Hakko Ryu Soft Theme](./soft.png)
+
+## Light Theme
+
+![Hakko Ryu Light Theme](./light.png)
+
+## Master Theme - "You Are a Master of the Eight Colors" ✨
+
+![Hakko Ryu Master Theme](./master.png)
 
 ## 🎨 Theme Variants
 
@@ -117,28 +137,6 @@ After installation, the theme will be immediately available in your color theme 
 > 💡 "True efficiency is invisible to the eyes, just as the ultra-violet rays - the eighth color on the spectrum of light, invisible but very powerful."
 
 This theme embodies the same principle: providing powerful functionality through subtle, harmonious design.
-
-## 📸 Screenshots
-
-### ## Standard Theme
-
-![Hakko Ryu Standard Theme](./standard.png)
-
-### ## High Contrast Theme
-
-![Hakko Ryu High Contrast Theme](./high-contrast.png)
-
-### ## Soft Theme
-
-![Hakko Ryu Soft Theme](./soft.png)
-
-### ## Light Theme
-
-![Hakko Ryu Light Theme](./light.png)
-
-### ## Master Theme - "You Are a Master of the Eight Colors" ✨
-
-![Hakko Ryu Master Theme](./master.png)
 
 ## 🤝 Contributing
 
