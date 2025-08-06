@@ -2,6 +2,17 @@
 
 All notable changes to the "Hakko Ryu Theme" extension will be documented in this file.
 
+## [1.3.1] - 2025-08-06
+
+### Added
+- **📸 Theme Screenshots** - Added visual previews for all 5 theme variants
+  - Standard theme screenshot showcasing balanced contrast
+  - High contrast theme screenshot highlighting accessibility features
+  - Soft theme screenshot displaying gentle, reduced intensity
+  - Light theme screenshot showing clean daytime coding experience
+  - Master theme screenshot featuring the bold all-purple design
+- **📖 Enhanced README** - Screenshots prominently displayed at the beginning for immediate visual reference
+
 ## [1.3.0] - 2024-01-20
 
 ### Added
