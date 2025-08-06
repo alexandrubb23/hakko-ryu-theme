@@ -2,7 +2,7 @@
   "name": "hakko-theme",
   "displayName": "Hakko Ryu Theme Collection",
   "description": "Complete theme collection inspired by Hakko Ryu martial arts - includes Dark, High Contrast, Soft, and Light variants",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "publisher": "alexandrubb23",
   "author": {
     "name": "Alexandru Barbulescu"
@@ -58,6 +58,11 @@
         "label": "Hakko Ryu Theme (Light)",
         "uiTheme": "vs",
         "path": "./themes/hakko-theme-light.json"
+      },
+      {
+        "label": "You Are a Master of the Eight Colors ✨",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hakko-theme-master.json"
       }
     ],
     "configuration": {

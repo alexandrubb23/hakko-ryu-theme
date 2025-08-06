@@ -1,0 +1,353 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "You Are a Master of the Eight Colors",
+  "type": "dark",
+  "colors": {
+    // Activity Bar - Bold purple mastery
+    "activityBar.activeBorder": "#C084FC",
+    "activityBar.background": "#1A0B2E",
+    "activityBar.border": "#4C1D95",
+    "activityBar.dropBorder": "#A855F7",
+    "activityBar.foreground": "#E879F9",
+    "activityBar.inactiveForeground": "#8B5CF680",
+    "activityBarBadge.background": "#A855F7",
+    "activityBarBadge.foreground": "#FFFFFF",
+
+    // Editor - Deep purple canvas for mastery
+    "editor.background": "#0F0520",
+    "editor.foreground": "#F3E8FF",
+    "editor.lineHighlightBackground": "#1E1B4B20",
+    "editor.selectionBackground": "#8B5CF650",
+    "editor.selectionHighlightBackground": "#A855F730",
+    "editor.findMatchBackground": "#C084FC60",
+    "editor.findMatchHighlightBackground": "#E879F940",
+    "editor.hoverHighlightBackground": "#7C3AED30",
+    "editor.lineHighlightBorder": "#4C1D9540",
+    "editor.rangeHighlightBackground": "#8B5CF620",
+    "editor.wordHighlightBackground": "#6D28D940",
+    "editor.wordHighlightStrongBackground": "#A855F750",
+
+    // Line numbers - Purple gradient mastery
+    "editorLineNumber.foreground": "#6D28D9",
+    "editorLineNumber.activeForeground": "#E879F9",
+    "editorCursor.foreground": "#C084FC",
+    "editorWhitespace.foreground": "#4C1D9560",
+
+    // Sidebar - Purple depths
+    "sideBar.background": "#1A0B2E",
+    "sideBar.foreground": "#E9D5FF",
+    "sideBar.border": "#4C1D95",
+    "sideBarTitle.foreground": "#C084FC",
+    "sideBarSectionHeader.background": "#2D1B69",
+    "sideBarSectionHeader.foreground": "#E879F9",
+    "sideBarSectionHeader.border": "#6D28D9",
+
+    // Status Bar - Purple power
+    "statusBar.background": "#6D28D9",
+    "statusBar.foreground": "#F3E8FF",
+    "statusBar.border": "#4C1D95",
+    "statusBar.debuggingBackground": "#A855F7",
+    "statusBar.debuggingForeground": "#FFFFFF",
+    "statusBar.noFolderBackground": "#581C87",
+
+    // Terminal - Purple mastery realm
+    "terminal.foreground": "#E9D5FF",
+    "terminal.background": "#0F0520",
+    "terminal.ansiBlack": "#1A0B2E",
+    "terminal.ansiRed": "#C084FC",
+    "terminal.ansiGreen": "#A855F7",
+    "terminal.ansiYellow": "#E879F9",
+    "terminal.ansiBlue": "#8B5CF6",
+    "terminal.ansiMagenta": "#C084FC",
+    "terminal.ansiCyan": "#DDD6FE",
+    "terminal.ansiWhite": "#F3E8FF",
+    "terminal.ansiBrightBlack": "#4C1D95",
+    "terminal.ansiBrightRed": "#E879F9",
+    "terminal.ansiBrightGreen": "#C084FC",
+    "terminal.ansiBrightYellow": "#F3E8FF",
+    "terminal.ansiBrightBlue": "#A855F7",
+    "terminal.ansiBrightMagenta": "#DDD6FE",
+    "terminal.ansiBrightCyan": "#EDE9FE",
+    "terminal.ansiBrightWhite": "#FAF5FF",
+
+    // Panels - Deep purple workspace
+    "panel.background": "#0F0520",
+    "panel.border": "#4C1D95",
+    "panelTitle.activeBorder": "#A855F7",
+    "panelTitle.activeForeground": "#E879F9",
+    "panelTitle.inactiveForeground": "#8B5CF6",
+
+    // Tabs - Purple mastery navigation
+    "tab.activeBackground": "#0F0520",
+    "tab.activeForeground": "#F3E8FF",
+    "tab.activeBorder": "#C084FC",
+    "tab.inactiveBackground": "#1A0B2E",
+    "tab.inactiveForeground": "#A855F7",
+    "tab.border": "#4C1D95",
+
+    // Input fields - Purple focus
+    "input.background": "#1A0B2E",
+    "input.border": "#6D28D9",
+    "input.foreground": "#F3E8FF",
+    "input.placeholderForeground": "#8B5CF6",
+    "inputOption.activeBorder": "#C084FC",
+    "inputValidation.errorBackground": "#7C2D1280",
+    "inputValidation.errorBorder": "#DC2626",
+
+    // Lists - Purple selection mastery
+    "list.activeSelectionBackground": "#6D28D960",
+    "list.activeSelectionForeground": "#F3E8FF",
+    "list.hoverBackground": "#4C1D9540",
+    "list.inactiveSelectionBackground": "#1E1B4B40",
+    "list.focusBackground": "#8B5CF640",
+
+    // Buttons - Purple power
+    "button.background": "#7C3AED",
+    "button.foreground": "#FFFFFF",
+    "button.hoverBackground": "#6D28D9",
+
+    // Dropdowns - Purple depth
+    "dropdown.background": "#1A0B2E",
+    "dropdown.border": "#6D28D9",
+    "dropdown.foreground": "#E9D5FF",
+
+    // Badges - Purple excellence
+    "badge.background": "#A855F7",
+    "badge.foreground": "#FFFFFF",
+
+    // Progress bar - Purple mastery progress
+    "progressBar.background": "#C084FC",
+
+    // Scrollbar - Subtle purple
+    "scrollbar.shadow": "#0F052080",
+    "scrollbarSlider.background": "#6D28D980",
+    "scrollbarSlider.hoverBackground": "#8B5CF680",
+    "scrollbarSlider.activeBackground": "#A855F780",
+
+    // Minimap - Purple overview
+    "minimap.background": "#1A0B2E",
+    "minimap.selectionHighlight": "#8B5CF660",
+    "minimap.findMatchHighlight": "#C084FC60",
+
+    // Tree - Purple hierarchy
+    "tree.indentGuidesStroke": "#4C1D95",
+    "tree.tableColumnsBorder": "#6D28D9",
+
+    // Git - Purple version control
+    "gitDecoration.addedResourceForeground": "#A855F7",
+    "gitDecoration.modifiedResourceForeground": "#C084FC",
+    "gitDecoration.deletedResourceForeground": "#E879F9",
+    "gitDecoration.untrackedResourceForeground": "#DDD6FE",
+    "gitDecoration.ignoredResourceForeground": "#6D28D9",
+
+    // Merge - Purple conflict resolution
+    "merge.currentHeaderBackground": "#7C3AED40",
+    "merge.currentContentBackground": "#6D28D920",
+    "merge.incomingHeaderBackground": "#8B5CF640",
+    "merge.incomingContentBackground": "#A855F720",
+
+    // Peek view - Purple insights
+    "peekView.border": "#8B5CF6",
+    "peekViewEditor.background": "#1A0B2E",
+    "peekViewEditor.matchHighlightBackground": "#C084FC40",
+    "peekViewResult.background": "#0F0520",
+    "peekViewResult.fileForeground": "#E9D5FF",
+    "peekViewResult.lineForeground": "#A855F7",
+    "peekViewResult.matchHighlightBackground": "#8B5CF640",
+    "peekViewResult.selectionBackground": "#6D28D960",
+    "peekViewResult.selectionForeground": "#F3E8FF",
+    "peekViewTitle.background": "#4C1D95",
+    "peekViewTitleDescription.foreground": "#DDD6FE",
+    "peekViewTitleLabel.foreground": "#F3E8FF"
+  },
+  "tokenColors": [
+    {
+      "name": "Comments - Wise whispers",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#8B5CF6"
+      }
+    },
+    {
+      "name": "Keywords - Purple power words",
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier",
+        "keyword.control",
+        "keyword.operator.new"
+      ],
+      "settings": {
+        "foreground": "#E879F9",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Strings - Purple expressions",
+      "scope": ["string", "punctuation.definition.string"],
+      "settings": {
+        "foreground": "#C084FC",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Numbers - Purple precision",
+      "scope": ["constant.numeric", "constant.language"],
+      "settings": {
+        "foreground": "#DDD6FE",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Functions - Purple mastery",
+      "scope": [
+        "entity.name.function",
+        "meta.function-call",
+        "variable.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#A855F7",
+        "fontStyle": "bold italic"
+      }
+    },
+    {
+      "name": "Variables - Bold purple identity",
+      "scope": [
+        "variable",
+        "string constant.other.placeholder",
+        "variable.other.readwrite",
+        "variable.parameter"
+      ],
+      "settings": {
+        "foreground": "#F3E8FF",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Types - Purple definitions",
+      "scope": [
+        "entity.name.type",
+        "entity.name.class",
+        "support.type",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#7C3AED",
+        "fontStyle": "bold underline"
+      }
+    },
+    {
+      "name": "Constants - Purple eternal truths",
+      "scope": [
+        "constant",
+        "variable.other.constant",
+        "constant.character.escape"
+      ],
+      "settings": {
+        "foreground": "#EDE9FE",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Properties - Purple attributes",
+      "scope": ["variable.other.property", "variable.other.object.property"],
+      "settings": {
+        "foreground": "#C084FC",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Tags - Purple structure",
+      "scope": ["entity.name.tag", "markup.heading"],
+      "settings": {
+        "foreground": "#E879F9",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Attributes - Purple descriptors",
+      "scope": ["entity.other.attribute-name"],
+      "settings": {
+        "foreground": "#DDD6FE",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Punctuation - Purple rhythm",
+      "scope": ["punctuation", "meta.brace", "punctuation.definition.block"],
+      "settings": {
+        "foreground": "#A855F7"
+      }
+    },
+    {
+      "name": "Operators - Purple logic",
+      "scope": [
+        "keyword.operator",
+        "punctuation.separator",
+        "punctuation.terminator"
+      ],
+      "settings": {
+        "foreground": "#C084FC",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Imports - Purple connections",
+      "scope": [
+        "keyword.control.import",
+        "keyword.control.from",
+        "keyword.control.export"
+      ],
+      "settings": {
+        "foreground": "#7C3AED",
+        "fontStyle": "bold italic"
+      }
+    },
+    {
+      "name": "Classes - Purple mastery vessels",
+      "scope": ["entity.name.class", "entity.other.inherited-class"],
+      "settings": {
+        "foreground": "#6D28D9",
+        "fontStyle": "bold underline"
+      }
+    },
+    {
+      "name": "Method calls - Purple actions",
+      "scope": ["meta.method-call", "meta.function-call entity.name.function"],
+      "settings": {
+        "foreground": "#E879F9",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JSON keys - Purple data keys",
+      "scope": ["support.type.property-name.json", "meta.object-literal.key"],
+      "settings": {
+        "foreground": "#DDD6FE",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markdown - Purple documentation",
+      "scope": ["markup.bold", "markup.italic", "markup.heading"],
+      "settings": {
+        "foreground": "#C084FC",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "CSS selectors - Purple styling mastery",
+      "scope": [
+        "entity.name.tag.css",
+        "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name.id.css"
+      ],
+      "settings": {
+        "foreground": "#A855F7",
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}

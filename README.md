@@ -6,7 +6,7 @@ A complete theme collection inspired by the martial art of <span style="color: #
 
 ## 🎨 Theme Variants
 
-This collection includes **four carefully crafted variants** to suit different preferences, accessibility needs, and coding environments:
+This collection includes **five carefully crafted variants** to suit different preferences, accessibility needs, and coding environments:
 
 ### 🌟 **Standard** - Perfect Balance
 
@@ -32,6 +32,15 @@ This collection includes **four carefully crafted variants** to suit different p
 - **📖 Perfect for documentation** and daytime coding
 - **👁️ Gentle on the eyes** with warm, comfortable tones
 - **🎨 Maintains color philosophy** with light-optimized palette
+
+### ✨ **You Are a Master of the Eight Colors** - Ultimate Expression
+
+- **🟣 Bold all-purple theme** for those who have achieved mastery
+- **🌌 Deep purple backgrounds** (#0F0520, #1A0B2E) for immersive coding
+- **⚡ Strong contrasts** with vibrant purple accents
+- **💫 Expressive typography**: **bold variables**, _italic functions_
+- **🎭 Rich purple palette** from soft lavender to deep violet
+- **🥋 Embodies the philosophy** of Hakko Ryu mastery
 
 ## 🎨 Color Palette
 
